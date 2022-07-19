@@ -60,8 +60,8 @@ services like WhatsApp, iMessage or SMS text message.
 ** Portuguese
 #+ATTR_HTML: :class u-max-full-width
 #+ATTR_HTML: :alt Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, German language.
-#+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Portugese language.
-[[./images/save-lives-stay-home-portugese-1470.jpg]]
+#+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Portuguese language.
+[[./images/save-lives-stay-home-portuguese-1470.jpg]]
 
 
 * Image Sources
@@ -74,7 +74,7 @@ services like WhatsApp, iMessage or SMS text message.
 | French      | 1470x1470  | [[./images/save-lives-stay-home-french-1470.pxm.zip][save-lives-stay-home-french-1470.pxm.zip]]    |
 | Italian     | 1470x1470  | [[./images/save-lives-stay-home-italian-1470.pxm.zip][save-lives-stay-home-italian-1470.pxm.zip]]   |
 | German      | 1470x1470  | [[./images/save-lives-stay-home-german-1470.pxm.zip][save-lives-stay-home-german-1470.pxm.zip]]    |
-| Portugese   | 1470x1470  | [[./images/save-lives-stay-home-portugese-1470.pxm.zip][save-lives-stay-home-portugese-1470.pxm.zip]] |
+| Portuguese  | 1470x1470  | [[./images/save-lives-stay-home-portugese-1470.pxm.zip][save-lives-stay-home-portuguese-1470.pxm.zip]] |
 
 Take inspiration and make your own translations in other
 languages. The images were made with Pixelmator. Use the image sources
