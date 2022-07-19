@@ -57,7 +57,7 @@ services like WhatsApp, iMessage or SMS text message.
 #+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, German language.
 [[./images/save-lives-stay-home-german-1470.jpg]]
 
-** Portugese
+** Portuguese
 #+ATTR_HTML: :class u-max-full-width
 #+ATTR_HTML: :alt Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, German language.
 #+CAPTION: Save Lives Stay Home General Purpose Image for Sharing On All Platforms, 1470x1470 square JPEG, Portugese language.
