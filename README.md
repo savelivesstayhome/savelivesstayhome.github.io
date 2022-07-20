@@ -29,12 +29,12 @@ the repo and linked on the website. Use those sources if you have
 Pixelmator or use whatever image editing tools and clear readable font
 you have handy. Here are the image attributes:
 
-| Item                  | Value           |
-|-----------------------|-----------------|
-| Dark Blue Letters     | #23305d         |
-| White Letters         | #ffffff         |
-| Bright Red Background | #da0712         |
-| Font                  | Avenir Next     |
+| Item                  | Value             |
+|-----------------------|-------------------|
+| Dark Blue Letters     | `#23305d`         |
+| White Letters         | `#ffffff`         |
+| Bright Red Background | `#da0712`         |
+| Font                  | `Avenir Next`     |
 
 # Official Resources for COVID-19
 
